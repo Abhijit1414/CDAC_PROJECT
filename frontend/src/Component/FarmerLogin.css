@@ -1,0 +1,131 @@
+/* .form-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: rgba(112, 240, 77, 0.9);
+  opacity: 0.87;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 450px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.button {
+  padding: 10px;
+  background-color: #28a745;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.redirect {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.register-link {
+  color: #28a745;
+  cursor: pointer;
+  text-decoration: underline;
+} */
+
+/*
+.container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden; 
+}
+
+.container::before {
+  content: ""; 
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('C:\Users\User\Desktop\react farmers\my-app\public\Images\farmer-login.jpg'); 
+  background-size: cover;
+  background-position: center; 
+  background-repeat: no-repeat; 
+  z-index: -1; 
+  opacity: 0.9; 
+}
+
+.form-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: rgba(112, 240, 77, 0.9);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 450px;
+  opacity: 0.9;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.button {
+  padding: 10px;
+  background-color: #28a745;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.redirect {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.register-link {
+  color: #28a745;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+*/
+/* Apply background image to the entire page */
+
+
